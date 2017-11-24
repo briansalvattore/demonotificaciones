@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "166520674994",
+    "firebase_url": "https://entel-demo-peru.firebaseio.com",
+    "project_id": "entel-demo-peru",
+    "storage_bucket": "entel-demo-peru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166520674994:android:8a891b0c0bba77ec",
+        "android_client_info": {
+          "package_name": "com.horses.demo.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166520674994-foc92qh3cjnh4m0erscdumu3tciif2pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBogLyTjqPQrdSBHG2YKCv9-LrLeb5g3k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
